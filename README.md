@@ -1,2 +1,2 @@
 # rossmann-sales-forecast
-Time series forecasting for Rossmann Store Sales (Kaggle). Feature engineering, LightGBM/CatBoost, time-series CV, FastAPI + Docker demo.
+Forecast 6 weeks of daily sales for 1,115 Rossmann stores (Kaggle). Feature engineering, LightGBM/CatBoost, time-series CV, RMSPE metric, FastAPI + Docker demo.
