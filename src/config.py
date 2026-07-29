@@ -17,3 +17,5 @@ FORECAST_HORIZON_WEEKS = 6
 
 # Evaluation metric: RMSPE (Root Mean Square Percentage Error)
 METRIC = "RMSPE"
+
+KAGGLE_API_TOKEN = "KGAT_61ff0020a9716dd09374d46cec05268d"

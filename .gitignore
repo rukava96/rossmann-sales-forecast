@@ -6,6 +6,9 @@ data/*.gz
 # Models
 models/
 
+# Kaggle
+.kaggle/
+
 # Jupyter
 .ipynb_checkpoints/
 
