@@ -1,26 +1,10 @@
-# Data
-data/*.csv
-data/*.zip
-data/*.gz
-
-# Models
-models/
-
-# Kaggle
-.kaggle/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Python
 __pycache__/
 *.pyc
+.venv/
+.ipynb_checkpoints/
+data/*.csv
+!data/sample_submission.csv
+models/*.joblib
+*.egg-info/
 .pytest_cache/
-.coverage
-htmlcov/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
+.ruff_cache/
